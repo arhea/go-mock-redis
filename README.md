@@ -1,5 +1,7 @@
 # Mock Redis
 
+![Tests](https://github.com/arhea/go-mock-redis/actions/workflows/main.yml/badge.svg?branch=main) ![goreportcard](https://goreportcard.com/badge/github.com/arhea/go-mock-redis)
+
 Provide a mock Redis instance and optionally a mock Redis client for testing purposes. This library is built so you can
 mock Redis instances using real Redis containers. You will need to have Docker running on your local machine or within
 your CI environment.
